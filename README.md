@@ -13,7 +13,7 @@
   
   Perez Rojas Jairo Jaziel 18210515
   
-  Esteban Sánchez Garzón Javier 18210527
+  Sánchez Garzón Javier Esteban  18210527
   
   Mario ivan jimenez fierro 17212145
   
