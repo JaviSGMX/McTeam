@@ -18,6 +18,6 @@
   Mario ivan jimenez fierro 17212145
   
   Claudio Espinoza Murillo 17211519
-  
+  https://trello.com/b/pHG2NCxs/sistemas
 
   ## TIJUANA BAJA CALIFORNIA 
