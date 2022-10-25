@@ -6,9 +6,9 @@ utime.sleep(1)
 
 while True:
     if sensor.value()==1:
-        print("Campo magnetico detectado")
+        print("Ningun campo detectado")
         utime.sleep(1)    
     else:
-        print("Ningun campo detectado")
+        print("Campo magnetico detectado")
         utime.sleep(1)
 utime.sleep(1)
