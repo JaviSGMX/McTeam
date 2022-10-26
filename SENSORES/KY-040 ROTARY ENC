@@ -25,5 +25,5 @@ while True:
      if SW.value() == True and switch_presionado:
          switch_presionado = False
          
-        ![image] (Ky-040.gif) 
+    
 
