@@ -25,5 +25,5 @@ while True:
      if SW.value() == True and switch_presionado:
          switch_presionado = False
          
-         
-         ![image](https://github.com/JaviSGMX/RREJ/blob/main/SENSORES/Ky-040.gif)
+       ![image](Ky-040.gif)  
+
