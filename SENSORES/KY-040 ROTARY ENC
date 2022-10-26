@@ -24,3 +24,6 @@ while True:
          switch_presionado = True
      if SW.value() == True and switch_presionado:
          switch_presionado = False
+         
+         
+         ![image](https://github.com/JaviSGMX/RREJ/blob/main/SENSORES/Ky-040.gif)
