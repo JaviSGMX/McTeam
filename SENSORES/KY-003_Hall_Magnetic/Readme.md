@@ -9,7 +9,4 @@ Diagrama
 
 
 
-
-
-
 ![image](KY-003_Hall_Magnetic/Ky-003.gif)
