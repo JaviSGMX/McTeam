@@ -9,5 +9,5 @@ Diagrama
 
 ![imagen](https://user-images.githubusercontent.com/71404620/197464387-1a96020f-ad43-44c8-bca3-fa941265630d.png)
 
-![image](Ky-026 Flame.gif)
+![image](Ky-026%20Flame.gif)
 
