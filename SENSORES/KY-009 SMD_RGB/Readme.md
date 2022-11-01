@@ -9,3 +9,6 @@ Diagrama
 
 
 ![imagen](https://user-images.githubusercontent.com/71404620/197469300-2ced085a-896a-4521-9fd0-abb87951cfa7.png)
+
+![image](Smd%20rgb.gif)
+
