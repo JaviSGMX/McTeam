@@ -6,3 +6,10 @@ Informacion del sensor
 Diagrama
 
 ![imagen](https://user-images.githubusercontent.com/71404620/197466126-97d0ce65-ce8f-4439-8e5f-17693c0ef333.png)
+
+
+
+
+
+
+![image](KY-003_Hall_Magnetic/Ky-003.gif)
