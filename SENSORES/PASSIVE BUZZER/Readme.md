@@ -1,3 +1,3 @@
 Informacion del sensor
 
-![image](PASSIVE%20BUZZER)
+![image](/Buzzer%20passive.gif)
