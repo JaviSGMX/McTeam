@@ -27,3 +27,4 @@ delay_t = 0.1 # seconds to delay between toggles
 while True: # loop infinitely
     for led in leds: # loop through each led
         led.high() # led high
+ ´´´
