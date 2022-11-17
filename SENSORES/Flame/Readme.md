@@ -20,5 +20,6 @@ El módulo KY-026 Sensor de Flama es útil para sistema de detección de incendi
 
 
 <h2>Resultados</h2>
+
 ![image](flame%20ky-026.gif)
 
