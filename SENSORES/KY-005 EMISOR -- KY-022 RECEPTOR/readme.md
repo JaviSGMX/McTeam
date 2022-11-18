@@ -1,1 +1,3 @@
-Informacion del sensor
+sensor Ky-022 Receptor
+
+
