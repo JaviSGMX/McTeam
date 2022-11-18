@@ -18,6 +18,16 @@
   ###  Claudio Espinoza Murillo 17211519
   
   ´´´python
-  
+  from machine import Pin, ADC
+from time import sleep
+
+buz = Pin(8, Pin.OUT, value=0)
+
+sensor = ADC(0)
+
+while True:
+    value = sensor.read_u16()
+    print(value)
+    sleep(0.5)
   
   ´´´
