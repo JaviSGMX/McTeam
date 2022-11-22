@@ -11,4 +11,4 @@ El módulo DHT11 es fácil utilizar con las tarjetas de Arduino, Raspberry Pi y 
 
 
 <h2>Resultados</h2>
-![image](KY-015%20TEMP%20AND%20HUMIDITY/Ky-015.gif)
+![image](Ky-015.gif)
