@@ -15,3 +15,6 @@ El KY-021 contiene una resistencia de 10 kΩ y una pequeña lengüeta magnética
 <h2> Resultados </h2>
 
 
+
+![image](Ky-021%20magnético.gif)
+
