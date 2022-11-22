@@ -12,3 +12,6 @@ El sensor micrófono es útil para para encender o apagar alguna lampara, para d
 
 
 <h2>Resultados</h2>
+
+
+![image](Ky-038.gif)
