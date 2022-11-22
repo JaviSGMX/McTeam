@@ -13,3 +13,8 @@ El sensor de sonido es útil para para encender o apagar alguna lampara, para de
 
 <h2> Resultados </h2>
 
+
+
+
+![image](Ky-037.gif)
+
